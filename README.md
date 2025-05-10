@@ -84,7 +84,7 @@ To set up the project locally, follow these steps:
     - `python manage.py makemigrations`
     - `python manage.py migrate`
 - Create a superuser, and run server:
-    - `python manage.py createsuperuser` , to simplify type: `admin` => `admin@email.com` => `admin` => `y `
+    - `python manage.py createsuperuser`
 - To run the server:
     - `python manage.py runserver`
 
