@@ -31,7 +31,7 @@ The CareNest Daycare Management System is a full-stack web application designed 
 
 ## Frontend Repository Link
 
-[CareNest Frontend Repo](https://git.generalassemb.ly/ghada001/care-nest-frontend)
+[CareNest Frontend Repo](https://github.com/ghd1010/care-nest-frontend)
 
 ## ERD Diagram
 
