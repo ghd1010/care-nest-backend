@@ -39,7 +39,7 @@ Here was my ERD in the planning stage:
 ![ERD-project](assets/ERD-project.png)
 
 This is the updated ERD after development:
-![ERD](assets/newERD.png)
+![ERD](assets/newERD2.png)
 
 ## Routing Table
 
