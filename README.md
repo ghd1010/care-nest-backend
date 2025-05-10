@@ -70,7 +70,7 @@ To set up the project locally, follow these steps:
 
 ### 1. Clone the Repository:
 
-* **Backend:** `git clone https://git.generalassemb.ly/ghada001/care-nest-backend.git`
+* **Backend:** `git clone https://github.com/ghd1010/care-nest-backend.git`
 
 ### 2. Backend Setup:
 
